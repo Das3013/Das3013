@@ -7,7 +7,7 @@ Hello everyone I'm a unity developer. This is where I sometimes (try to) post my
 Skills: Unity/c#/Photoshop
 # **Project in progress:**
 
-Currently in development project clone vampire survive on mobile.With the development of the project, I will update the script
+Currently in development project clone vampire survive on mobile.With the development of the project, I will update the screen
 ![image](https://user-images.githubusercontent.com/117980469/201325708-9b8e136e-66fb-463c-bc8c-65cf6b3d2fc7.png)
 
 
